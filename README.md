@@ -1,2 +1,2 @@
 # palisep
-Palisep is a website of heraldry
+Palisep is a french website of heraldry
